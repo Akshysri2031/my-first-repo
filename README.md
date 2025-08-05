@@ -1,2 +1,2 @@
 # my-first-repo
-learning Github with DevOps
+my name is sri harshitha
