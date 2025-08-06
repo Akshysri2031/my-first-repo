@@ -1,2 +1,2 @@
 # my-first-repo
-my name is sri harshitha
+welcome to git hub
